@@ -1,3 +1,2 @@
-# Codsoft
-Codsoft Task 1 
+# Codsoft Tasks
 
